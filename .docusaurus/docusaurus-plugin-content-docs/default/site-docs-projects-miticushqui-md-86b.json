@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Projects/miticushqui",
+  "id": "Projects/miticushqui",
+  "title": "miticushqui",
+  "description": "Strudel🌪🌪👀MitiCushqui🏦💰💵",
+  "source": "@site/docs/Projects/miticushqui.md",
+  "sourceDirName": "Projects",
+  "slug": "/Projects/miticushqui",
+  "permalink": "/nerddao/docs/Projects/miticushqui",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/miticushqui.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NerdCon 🧠🧠🤓",
+    "permalink": "/nerddao/docs/Projects/NerdCon 🧠🧠🧠🤓"
+  },
+  "next": {
+    "title": "rubixDAO",
+    "permalink": "/nerddao/docs/Projects/rubixDAO"
+  }
+}

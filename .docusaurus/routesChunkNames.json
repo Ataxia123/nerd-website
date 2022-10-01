@@ -1,0 +1,192 @@
+{
+  "/nerddao/__docusaurus/debug-922": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    }
+  },
+  "/nerddao/__docusaurus/debug/config-e77": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    }
+  },
+  "/nerddao/__docusaurus/debug/content-4a7": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    },
+    "allContent": "allContent---nerddao-docusaurus-debug-content-246-f5b"
+  },
+  "/nerddao/__docusaurus/debug/globalData-46d": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    }
+  },
+  "/nerddao/__docusaurus/debug/metadata-9a8": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    }
+  },
+  "/nerddao/__docusaurus/debug/registry-1af": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    }
+  },
+  "/nerddao/__docusaurus/debug/routes-831": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-52-d-c18"
+    }
+  },
+  "/nerddao/blog-b94": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "items": [
+      {
+        "content": "content---nerddao-blog-257-ffc"
+      },
+      {
+        "content": "content---nerddao-blogc-99-15e"
+      },
+      {
+        "content": "content---nerddao-blog-6-c-3-27b"
+      }
+    ],
+    "metadata": "metadata---nerddao-blogb-6-a-cbf"
+  },
+  "/nerddao/blog/archive-b6c": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "archive": "archive---nerddao-blog-archive-87-d-70e"
+  },
+  "/nerddao/blog/perpetual-motion-c53": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-perpetual-motion-278-003"
+  },
+  "/nerddao/blog/strudel-briefing-e6f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-strudel-briefingdcb-ebf"
+  },
+  "/nerddao/blog/tags-4ca": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "tags": "tags---nerddao-blog-tagse-20-d25"
+  },
+  "/nerddao/blog/tags/bitcoin-d58": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "items": [
+      {
+        "content": "content---nerddao-blog-257-ffc"
+      },
+      {
+        "content": "content---nerddao-blog-6-c-3-27b"
+      }
+    ],
+    "tag": "tag---nerddao-blog-tags-bitcoin-9-e-2-1c4",
+    "listMetadata": "listMetadata---nerddao-blog-tags-bitcoind-5-b-36f"
+  },
+  "/nerddao/blog/tags/nerddao-79c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "items": [
+      {
+        "content": "content---nerddao-blogc-99-15e"
+      }
+    ],
+    "tag": "tag---nerddao-blog-tags-nerddao-480-700",
+    "listMetadata": "listMetadata---nerddao-blog-tags-nerddao-440-93a"
+  },
+  "/nerddao/blog/tags/strudel-3a5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "items": [
+      {
+        "content": "content---nerddao-blog-257-ffc"
+      },
+      {
+        "content": "content---nerddao-blog-6-c-3-27b"
+      }
+    ],
+    "tag": "tag---nerddao-blog-tags-strudele-99-410",
+    "listMetadata": "listMetadata---nerddao-blog-tags-strudel-55-c-043"
+  },
+  "/nerddao/blog/what-is-nerd-6b1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---nerddao-blogd-7-d-918"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-what-is-nerd-707-7ac"
+  },
+  "/nerddao/markdown-page-e66": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---nerddao-markdown-page-34-c-f72"
+    },
+    "content": "content---nerddao-markdown-page-393-0a0"
+  },
+  "/nerddao/docs-1f2": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---nerddao-docsba-1-cab"
+    },
+    "versionMetadata": "versionMetadata---nerddao-docs-935-854"
+  },
+  "/nerddao/docs/intro-149": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-intro-0-e-3-441"
+  },
+  "/nerddao/docs/NERD COMMUNITIES 🧠🧠🧠🤓-fb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-nerd-communities-🧠-🧠-🧠-🤓-fee-80f"
+  },
+  "/nerddao/docs/Projects/miticushqui-8ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-projects-miticushqui-86-b-e79"
+  },
+  "/nerddao/docs/Projects/NerdCon 🧠🧠🧠🤓-576": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-projects-nerd-con-🧠-🧠-🧠-🤓-629-de4"
+  },
+  "/nerddao/docs/Projects/rubixDAO-32a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-projects-rubix-dao-855-983"
+  },
+  "/nerddao/-18d": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---nerddao-markdown-page-34-c-f72"
+    },
+    "config": "config---nerddao-5-e-9-358"
+  }
+}

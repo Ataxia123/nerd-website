@@ -1,0 +1,42 @@
+{
+  "permalink": "/nerddao/blog/what-is-nerd",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/what-is-NERD.md",
+  "source": "@site/blog/what-is-NERD.md",
+  "title": "What is 🧠🧠🧠🤓?",
+  "description": "Introduction",
+  "date": "2022-08-01T16:07:12.165Z",
+  "formattedDate": "August 1, 2022",
+  "tags": [
+    {
+      "label": "nerddao",
+      "permalink": "/nerddao/blog/tags/nerddao"
+    }
+  ],
+  "readingTime": 3.985,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "what-is-nerd",
+    "title": "What is 🧠🧠🧠🤓?",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "nerddao"
+    ]
+  },
+  "prevItem": {
+    "title": "Building a Crypto Perpetual Motion Machine",
+    "permalink": "/nerddao/blog/perpetual-motion"
+  },
+  "nextItem": {
+    "title": "Strudel Bitcoin Investment Briefing",
+    "permalink": "/nerddao/blog/strudel-briefing"
+  }
+}

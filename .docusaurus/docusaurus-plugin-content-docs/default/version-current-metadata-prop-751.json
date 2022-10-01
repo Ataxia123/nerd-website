@@ -1,0 +1,83 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "NERD_BRAIN 🧠🧠🧠",
+        "href": "/nerddao/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "NERD COMMUNITIES 🧠🤓",
+        "href": "/nerddao/docs/NERD COMMUNITIES 🧠🧠🧠🤓",
+        "docId": "NERD COMMUNITIES 🧠🧠🧠🤓"
+      },
+      {
+        "type": "category",
+        "label": "Projects",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "NerdCon 🧠🧠🤓",
+            "href": "/nerddao/docs/Projects/NerdCon 🧠🧠🧠🤓",
+            "docId": "Projects/NerdCon 🧠🧠🧠🤓"
+          },
+          {
+            "type": "link",
+            "label": "miticushqui",
+            "href": "/nerddao/docs/Projects/miticushqui",
+            "docId": "Projects/miticushqui"
+          },
+          {
+            "type": "link",
+            "label": "rubixDAO",
+            "href": "/nerddao/docs/Projects/rubixDAO",
+            "docId": "Projects/rubixDAO"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "NERD_BRAIN 🧠🧠🧠",
+      "description": "🧠🧠🧠🤓",
+      "sidebar": "tutorialSidebar"
+    },
+    "NERD COMMUNITIES 🧠🧠🧠🤓": {
+      "id": "NERD COMMUNITIES 🧠🧠🧠🤓",
+      "title": "NERD COMMUNITIES 🧠🤓",
+      "description": "🧠🧠🧠🤓",
+      "sidebar": "tutorialSidebar"
+    },
+    "Projects/miticushqui": {
+      "id": "Projects/miticushqui",
+      "title": "miticushqui",
+      "description": "Strudel🌪🌪👀MitiCushqui🏦💰💵",
+      "sidebar": "tutorialSidebar"
+    },
+    "Projects/NerdCon 🧠🧠🧠🤓": {
+      "id": "Projects/NerdCon 🧠🧠🧠🤓",
+      "title": "NerdCon 🧠🧠🤓",
+      "description": "🧠🧠🧠🤓",
+      "sidebar": "tutorialSidebar"
+    },
+    "Projects/rubixDAO": {
+      "id": "Projects/rubixDAO",
+      "title": "rubixDAO",
+      "description": "Webpage//rubixdao.com/#",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

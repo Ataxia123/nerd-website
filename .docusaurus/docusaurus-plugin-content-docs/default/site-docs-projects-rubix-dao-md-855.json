@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Projects/rubixDAO",
+  "id": "Projects/rubixDAO",
+  "title": "rubixDAO",
+  "description": "Webpage//rubixdao.com/#",
+  "source": "@site/docs/Projects/rubixDAO.md",
+  "sourceDirName": "Projects",
+  "slug": "/Projects/rubixDAO",
+  "permalink": "/nerddao/docs/Projects/rubixDAO",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/rubixDAO.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "miticushqui",
+    "permalink": "/nerddao/docs/Projects/miticushqui"
+  }
+}

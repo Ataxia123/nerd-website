@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Projects/Strudel DAO",
+  "id": "Projects/Strudel DAO",
+  "title": "Strudel DAO",
+  "description": "Strudel🌪🌪👀MitiCushqui🏦💰💵",
+  "source": "@site/docs/Projects/Strudel DAO.md",
+  "sourceDirName": "Projects",
+  "slug": "/Projects/Strudel DAO",
+  "permalink": "/docs/Projects/Strudel DAO",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/Strudel DAO.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NERD COMMUNITIES 🧠🤓",
+    "permalink": "/docs/NERD COMMUNITIES 🧠🧠🧠🤓"
+  }
+}

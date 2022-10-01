@@ -1,0 +1,27 @@
+{
+  "unversionedId": "NERD COMMUNITIES 🧠🧠🧠🤓",
+  "id": "NERD COMMUNITIES 🧠🧠🧠🤓",
+  "title": "NERD COMMUNITIES 🧠🤓",
+  "description": "🧠🧠🧠🤓",
+  "source": "@site/docs/NERD COMMUNITIES 🧠🧠🧠🤓.md",
+  "sourceDirName": ".",
+  "slug": "/NERD COMMUNITIES 🧠🧠🧠🤓",
+  "permalink": "/nerddao/docs/NERD COMMUNITIES 🧠🧠🧠🤓",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/NERD COMMUNITIES 🧠🧠🧠🤓.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NERD_BRAIN 🧠🧠🧠",
+    "permalink": "/nerddao/docs/intro"
+  },
+  "next": {
+    "title": "NerdCon 🧠🧠🤓",
+    "permalink": "/nerddao/docs/Projects/NerdCon 🧠🧠🧠🤓"
+  }
+}

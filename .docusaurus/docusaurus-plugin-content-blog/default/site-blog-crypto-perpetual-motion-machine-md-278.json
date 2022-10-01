@@ -1,0 +1,43 @@
+{
+  "permalink": "/nerddao/blog/perpetual-motion",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/crypto-perpetual-motion-machine.md",
+  "source": "@site/blog/crypto-perpetual-motion-machine.md",
+  "title": "Building a Crypto Perpetual Motion Machine",
+  "description": "\"Oh ye seekers after perpetual motion, how many vain chimeras have you pursued? Go and take your place with the alchemists.\"",
+  "date": "2022-08-02T02:27:01.480Z",
+  "formattedDate": "August 2, 2022",
+  "tags": [
+    {
+      "label": "strudel",
+      "permalink": "/nerddao/blog/tags/strudel"
+    },
+    {
+      "label": "bitcoin",
+      "permalink": "/nerddao/blog/tags/bitcoin"
+    }
+  ],
+  "readingTime": 5.87,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "perpetual-motion",
+    "title": "Building a Crypto Perpetual Motion Machine",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "strudel",
+      "bitcoin"
+    ]
+  },
+  "nextItem": {
+    "title": "What is 🧠🧠🧠🤓?",
+    "permalink": "/nerddao/blog/what-is-nerd"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "blogPosts": [
+    {
+      "id": "strudel-briefing",
+      "metadata": {
+        "permalink": "/blog/strudel-briefing",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+        "source": "@site/blog/2019-05-28-first-blog-post.md",
+        "title": "Strudel Bitcoin Investment Briefing",
+        "description": "The Strudel Bridge",
+        "date": "2019-05-28T00:00:00.000Z",
+        "formattedDate": "May 28, 2019",
+        "tags": [
+          {
+            "label": "strudel",
+            "permalink": "/blog/tags/strudel"
+          },
+          {
+            "label": "bitcoin",
+            "permalink": "/blog/tags/bitcoin"
+          }
+        ],
+        "readingTime": 4.81,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "At0x",
+            "title": "chief nerd"
+          }
+        ],
+        "frontMatter": {
+          "slug": "strudel-briefing",
+          "title": "Strudel Bitcoin Investment Briefing",
+          "authors": {
+            "name": "At0x",
+            "title": "chief nerd"
+          },
+          "tags": [
+            "strudel",
+            "bitcoin"
+          ]
+        }
+      },
+      "content": "## The Strudel Bridge\n\n**By eliminating the need for custodial control of assets** that come with typical wrappers, the Strudel protocol trades off counter-party risk for market risk while using **market dynamics, crypto-economic incentives, and cross-chain capabilities** to maintain a pegged, scalable, and capital-efficient ecosystem. This one-of-a-kind economic approach offers average users and big money investors numerous options for monetary growth and grants more diversity and security to DeFi.\n\n<!--truncate-->\n\n# Problem Statement\n\n**Bitcoin**  is poorly incorporated into web3. The existing landscape relies mainly on wBTC, a trusted bridge operated primarily by funds such as 3AC, which have the exclusive right to mint and burn wBTC, therefore cornering the benefit of the arbitrage between on-chain BTC and legacy markets.\n\nVitalik [has stated](https://twitter.com/VitalikButerin/status/1295252403558559746?s=20&t=UvAU_6bfaNeaIVcafixefg) that trusted BTC bridges pose a systemic risk to the DeFi ecosystem. I would go even further and say that DeFi cannot grow until its intimately integrated with BTC and we capture a significant % of the BTC network on-chain. To achieve this goal, we must find a robust solution to bridge many BTC into the Web3 economy.\n\n\n \n## The On Chain Bitcoin Landscape\n\n[Updated Dashboard](https://dune.com/eliasimos/btc-on-ethereum_1)\n![](https://i.imgur.com/AyKNaM9.png)\n![](https://i.imgur.com/vYAyc5x.png)\n\n\n\n**Key Takeaways**\n\n- Less than 1.5% of the BTC supply is currently bridged on-chain.\n- On-chain, BTC balances are very stable compared to price volatility.\n- Trusted bridges (wBTC+hBTC) represent over 90% of all the BTC bridged on-chain.\n- Decentralized alternatives have not found strong PmF: RenBTC only has 4,000 BTC bridged. Hardly 2% of the total on-chain BTC\n\n\n## Strudel Bridge Architecture\n\nWhen BTC is requested to be transferred using the Strudel dApp, a transaction output with the transfer amount and the receiving Ethereum wallet address is created. This output is handed to the user’s Bitcoin wallet through the QR code. When a user signs a transfer, the resulting transaction might look like this.\n\n![](https://i.imgur.com/eGRRlhh.png)\n\nNext, the header of the Bitcoin block containing the transaction needs to be registered in the relayer contract on Ethereum, where its proof-of-work is verified, and the canonical chain is extended. Simple payment verification (SPV), a protocol used by Bitcoin light clients and wallets, prevents invalid blocks from entering the relayer.\nOnce the transaction containing the burn has been buried under enough proof of work (6 blocks), an inclusion proof is relayed onto Ethereum. The proof is verified by the Strudel contract, which mints vBTC in a ratio of 1:1 to the designated Ethereum address. The protocol strictly mints one vBTC for one burned BTC, not taking any fees for bridge crossings.\n\n## Strudel Bitcoin\n\nToken Address: 0xe1406825186d63980fd6e2ec61888f7b91c4bae4\n\nCurrent vBTC Supply: 23.27238764 \n\nToken Distribution:\n\nHodlers: 461 \n\nTotal Liquidity: ~120,000 USD combined\n\nMarket Cap: 230,000 USD\n\n\n![](https://i.imgur.com/llQkTCg.png)\n\n\n\nOnce BTC crosses the bridge using the Strudel Protocol its issued as Strudel Bitcoin (vBTC) on the Ethereum network. vBTC is **fully erc20 compliant** with 18 decimals and flash loan capabilities. \n\nhttps://etherscan.io/token/0xe1406825186d63980fd6e2ec61888f7b91c4bae4\nhttps://ftmscan.com/token/0x9049198f6b21acf1e050cfcf36a6879a07b0bbe4\n\n### Historic Performance\n\n![](https://i.imgur.com/vVcjWIe.png)\n![](https://i.imgur.com/c5Jhu6c.png)\n\n\n\n- vBTC has outperformed both ETH (+86%) and BTC (+53%) YTD\n- The Strudel Protocol controls > 50% of vBTC, which are acquired through Orkan.Finance bond issuance and MitiCushqui stablecoin issuance.\n\n\n\n### Liquidity landscape\n\nStrudel utilizes a [mandate based approach](https://app.gitbook.com/o/V40TVngLYntzpq24zWhI/s/9QESb5e46FBDH1t8kShd/monetary-policy/mandates) to guide the development of the protocol\n\n**Mandate #1 - Achieve true decentralization of BTC on DeFi\nMandate #2  - Design incentive structures that issue and manage reserve backed currencies**\n\nBy utilizing vBTC as a reserve asset, we reduce the floating supply and therefore provide price stability when interacting with demand driven by incentives to provide liquidity for vBTC\n\n**Liquidity Incentives**\n\nThe first stop for vBTC once bridged is the strudel. Finance farms. The protocol utilizes a sushi-style LP farm to issue 1 $TRDL per block split evenly among the following positions:\n\n- $TRDL:ETH(Pool0) (320%APY)\n- vBTC:$TRDL (73.51%APY)\n- vBTC:ETH (14.96%APY)\n- vNFT::vBTC:PUNK:CC:BAYC (NA* APY)\n\n*have to develop code to calculate price on multi asset pool to use in APY formula. \n\n**Reserve Backed Currencies**\n\n**Orkan.finance**\n\n**$vBTC's peg through The Orkan** \n- When $vBTC gets under the peg, $ORK bonds are issued to increase the treasury supply and therefore remove $vBTC from circulation\n- When $vBTC gets above the peg, previously acquired $vBTC is exchanged by the protocol for other assets to diversify the treasury basket or to buy back and burn $ORK.\n\n![](https://i.imgur.com/b2V7Yoo.png)\n\n**vBTC as a Store of Value**\n\nThe Orkan treasury has managed to retain most of the value issued for the purchase of vBTC even though the market has gone through a significant downturn. ORK is trading at .40c, whereas the backing per token is 1.22c.\n\n**🏦💰💵MitiCushqui🏦💰💵**\n\n![](https://i.imgur.com/axrQqVG.png)\n\n\nWe recently deployed MitiCushqui, a [stablecoin issuing protocol](https://y.at/🏦💰💵). This protocol can be used to deploy redeemable stablecoins backed by a fixed ratio of a base stablecoin and any other asset. \n\nThe protocol oracles the BTC price and therefore creates an arbitrage where users can mint $Miti  at a discount and redeem for USDC. The vault keeps vBTC out of circulation therefore reducing the supply and increasing the price until the arbitrage is closed and the peg is met. \n\n![](https://i.imgur.com/UC5UXFw.png)\n\n## The Future of Bitcoin is on-chain and the on-chain future is Bitcoin.\n\nTo make the web3 ecosystem more robust, we need to onboard a more significant percentage of BTC on-chain. A way to achieve reliable yields is to incentivize the flow of BTC into Web3. This capital can finance projects that generate value for the entire space. This makes BTC more useful, which is vital For it to gain mainstream adoption.\n\nThe future of BTC cannot depend on any one group of developers or caretakers. To realize its potential, we must find ways to bridge it into the Web3 ecosystem by utilizing as many techniques as possible and later building tools to create an interoperable interface\n\n\n\nLearn More:\n\nStrudel Twitter: @EnterTheStrudel\nAt0x Twitter: @At0xNQ\nNerd Chat: https://y.at/🤓✉️🤓\nStrudel Landing: https://y.at/🌪🌪👀\nMitiCushqui: https://y.at/🏦💰💵"
+    }
+  ]
+}
