@@ -3,93 +3,78 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/nerddao/__docusaurus/debug',
-    component: ComponentCreator('/nerddao/__docusaurus/debug', '922'),
-    exact: true
-  },
-  {
-    path: '/nerddao/__docusaurus/debug/config',
-    component: ComponentCreator('/nerddao/__docusaurus/debug/config', 'e77'),
-    exact: true
-  },
-  {
-    path: '/nerddao/__docusaurus/debug/content',
-    component: ComponentCreator('/nerddao/__docusaurus/debug/content', '4a7'),
-    exact: true
-  },
-  {
-    path: '/nerddao/__docusaurus/debug/globalData',
-    component: ComponentCreator('/nerddao/__docusaurus/debug/globalData', '46d'),
-    exact: true
-  },
-  {
-    path: '/nerddao/__docusaurus/debug/metadata',
-    component: ComponentCreator('/nerddao/__docusaurus/debug/metadata', '9a8'),
-    exact: true
-  },
-  {
-    path: '/nerddao/__docusaurus/debug/registry',
-    component: ComponentCreator('/nerddao/__docusaurus/debug/registry', '1af'),
-    exact: true
-  },
-  {
-    path: '/nerddao/__docusaurus/debug/routes',
-    component: ComponentCreator('/nerddao/__docusaurus/debug/routes', '831'),
-    exact: true
-  },
-  {
     path: '/nerddao/blog',
-    component: ComponentCreator('/nerddao/blog', 'b94'),
+    component: ComponentCreator('/nerddao/blog', 'c2e'),
     exact: true
   },
   {
     path: '/nerddao/blog/archive',
-    component: ComponentCreator('/nerddao/blog/archive', 'b6c'),
+    component: ComponentCreator('/nerddao/blog/archive', 'f28'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/Nerd-Bogota',
+    component: ComponentCreator('/nerddao/blog/Nerd-Bogota', '4bb'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/NerdOS',
+    component: ComponentCreator('/nerddao/blog/NerdOS', '714'),
     exact: true
   },
   {
     path: '/nerddao/blog/perpetual-motion',
-    component: ComponentCreator('/nerddao/blog/perpetual-motion', 'c53'),
+    component: ComponentCreator('/nerddao/blog/perpetual-motion', '667'),
     exact: true
   },
   {
     path: '/nerddao/blog/strudel-briefing',
-    component: ComponentCreator('/nerddao/blog/strudel-briefing', 'e6f'),
+    component: ComponentCreator('/nerddao/blog/strudel-briefing', '7c9'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags',
-    component: ComponentCreator('/nerddao/blog/tags', '4ca'),
+    component: ComponentCreator('/nerddao/blog/tags', '715'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/bitcoin',
-    component: ComponentCreator('/nerddao/blog/tags/bitcoin', 'd58'),
+    component: ComponentCreator('/nerddao/blog/tags/bitcoin', '6cc'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/tags/ethereum',
+    component: ComponentCreator('/nerddao/blog/tags/ethereum', '6c8'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/tags/hacks',
+    component: ComponentCreator('/nerddao/blog/tags/hacks', 'ba2'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/nerddao',
-    component: ComponentCreator('/nerddao/blog/tags/nerddao', '79c'),
+    component: ComponentCreator('/nerddao/blog/tags/nerddao', 'ef4'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/strudel',
-    component: ComponentCreator('/nerddao/blog/tags/strudel', '3a5'),
+    component: ComponentCreator('/nerddao/blog/tags/strudel', 'e14'),
     exact: true
   },
   {
     path: '/nerddao/blog/what-is-nerd',
-    component: ComponentCreator('/nerddao/blog/what-is-nerd', '6b1'),
+    component: ComponentCreator('/nerddao/blog/what-is-nerd', 'b04'),
     exact: true
   },
   {
     path: '/nerddao/markdown-page',
-    component: ComponentCreator('/nerddao/markdown-page', 'e66'),
+    component: ComponentCreator('/nerddao/markdown-page', '560'),
     exact: true
   },
   {
     path: '/nerddao/docs',
-    component: ComponentCreator('/nerddao/docs', '1f2'),
+    component: ComponentCreator('/nerddao/docs', '1bc'),
     routes: [
       {
         path: '/nerddao/docs/intro',
@@ -125,7 +110,7 @@ export default [
   },
   {
     path: '/nerddao/',
-    component: ComponentCreator('/nerddao/', '18d'),
+    component: ComponentCreator('/nerddao/', 'a4f'),
     exact: true
   },
   {

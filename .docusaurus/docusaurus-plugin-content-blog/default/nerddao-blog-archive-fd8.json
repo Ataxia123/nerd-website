@@ -1,6 +1,84 @@
 {
   "blogPosts": [
     {
+      "id": "Nerd-Bogota",
+      "metadata": {
+        "permalink": "/nerddao/blog/Nerd-Bogota",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/NerdBlog2.md",
+        "source": "@site/blog/NerdBlog2.md",
+        "title": "NerdBogota",
+        "description": "From all over the world Nerds have travelled to Bogota, Colombia to participate in the EthBogota hackathon and DevCon. The hackathon has come to an end with over 900 hackers participating and over 200 projects made over a single weekend. It is the biggest hackathon ever in LatAm.",
+        "date": "2022-10-10T20:03:23.011Z",
+        "formattedDate": "October 10, 2022",
+        "tags": [
+          {
+            "label": "nerddao",
+            "permalink": "/nerddao/blog/tags/nerddao"
+          },
+          {
+            "label": "hacks",
+            "permalink": "/nerddao/blog/tags/hacks"
+          },
+          {
+            "label": "ethereum",
+            "permalink": "/nerddao/blog/tags/ethereum"
+          }
+        ],
+        "readingTime": 5.145,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "At0x",
+            "title": "chief nerd"
+          }
+        ],
+        "frontMatter": {
+          "slug": "Nerd-Bogota",
+          "title": "NerdBogota",
+          "authors": {
+            "name": "At0x",
+            "title": "chief nerd"
+          },
+          "tags": [
+            "nerddao",
+            "hacks",
+            "ethereum"
+          ]
+        },
+        "nextItem": {
+          "title": "Nerd DAO Delegation proposal",
+          "permalink": "/nerddao/blog/NerdOS"
+        }
+      },
+      "content": "![](https://i.imgur.com/KBg0WjR.jpg)\n\nFrom all over the world Nerds have travelled to Bogota, Colombia to participate in the EthBogota hackathon and DevCon. The hackathon has come to an end with over 900 hackers participating and over 200 projects made over a single weekend. It is the biggest hackathon ever in LatAm.\n\nThe main goal of these events is to connect Ethereans together and strenghen the community around creating cool stuff. I'd like to share my experience so that buidlers who are on the fence about participating in these events can get a sense of how cool it is to get together and buidl with buidlers in the same buidling.\n\n\nOnce you decide to go to a Hackathon you should start brainstorming about what you would like to buidl. It can literally be anything but I personally like to think about a specific problem i'd like to solve. At first it may feel like a pretty daunting task. But the most important thing about these events is that you're not alone. If you cant come up with anything its time to talk to other people and see what theyre trying to build and join the team that you find the most interesting. Although you can hack solo, you have way better chances if you join up with others that can complent your skillset and bring new ideas into the project. \n\nEthGlobal.com runs the hackathon events like a well oiled machine. You have plenty of avenues to reach out and connect to other people and there are several mentors available alongisde with the teams that sponsor the event in order to get more people to use their stack. I met my team members through the discord chat and after a team building event early on. At the event itself you have infinite coffee and plenty of food to keep you going throughout the weekend. ALthough the internet does get shoddy at times with all the npm installs going on.\n\n#### Let the Hack Begin!\n\nOnce your team has been formed and the hackathon officially begins. Its off to the races. Every team has a different strategy, but there are some important things to consider. The goal of the event is to showcase an idea, not necesarily a production stage. You want to get to the proof of concept as soon as possible and then build extra functionalities on top. You can stay at the venue 24/7 and a big percentage of people do, but it is also important to pace youself so that you can do good presentations at the end. \n\nAn important thing to keep in mind is that you dont necesarly need to be a super coder to participate in these events. There is a lot of work to be done in any project around documentation, graphic design, product ideation and narrative that really makes a difference to make your project stand out. \n\nThe judging process for the hacks is very brief and you dont really get too much time to go over small details, so its important to get straight to the point and try to have a long lasting impression. At the end of the day the Hackathon is not about winning but rather sharing ideas and connecting to people. I hope more Nerds will start participating in these events soon. Here is our submission to the hackathon. If you find it interesting and would like to help out with this idea feel free to reach out at the NerdQuarters.\n<center>\n    \n# [Allyu.xyz ](https://Allyu.xyz )\n    \n  ![](https://i.imgur.com/cikwHhm.png)\n\n\n## A community-based protocol to issue crypto-backed money\n    \n</center>\n\n### Objectives: \n\n- To create a system that communities can leverage to issue their own trustless paper money backed entirely by crypto deposits.\n- Onboard community leaders into crypto and enable them to lead by example in the adoption of web3.\n- To increase the transactability of Ethereum based products by introducing them into the heart of the Latin American community: the corner store. allowing recipients to purchase food and other vital supplies with crypto money\n\n.\n\n### Introduction\n\n    \nIn order to gain mass adoption, Web3 protocols need to start with the simplest use cases in order to address the needs of a majority of the world's population. The singular most impactful use case for blockchains is to serve as money. Money has three main characteristics: it serves as a store of value, as a medium of exchange, and as a unit of account. These three characteristics are not independent of each other since once any kind of money has value it can be used to fulfill those three functions. However, we can argue that there are some forms of money that are better than others at one of these aspects while lacking in others.\n    \n\n### Crypto vs Fiat as a Medium of Echange\n\n<p align=\"center\">\n\n| Pros | Cons |\n| -------- | -------- |\n| Verifiable     | Costlier     | \n| Uncensorable     | Slower     | \n| Fungible     | Requires Onboarding     |\n\n</p>\n\n## Ranking of the online banking penetration in Latin America and the Caribbean by Country 2020\n\n![](https://i.imgur.com/lIYjU3m.png)\n\n# Smartphone penetration in Latin America\n\n![](https://i.imgur.com/xTsQA8c.png)\n\n<center>\n\n\n\n# How to leapfrog LatAm over Online Banking into Web3?\n\n# Do what Online Banking couldn't:\n\n    \n### Replace fiat paper.\n ### With Crypto Paper\n    \n\n\n![](https://i.imgur.com/VauTrNE.jpg)\n    \n\n\n\n![](https://i.imgur.com/eUGQ9bM.png)\n\n![](https://i.imgur.com/YS4jQBB.png)\n    \n</center>\n\n### Pitfalls ToDO & future work\n\n1) Protect claims from frontrunning when supplying private & public key\n    \n    - Future hash commit the withdraw transaction (a la ENS)\n    - ZK proof of ownership of secret pair for withrdrawal\n2) Decentralize further by giving trusted community leaders the ability to issue new papers themselves\n    - PolygonId based reputation enables issuing allowance\n    - MPC to create a split secret that allows printing bills on regular printer at home\n\n\n\n#### How to scale: Decentralize the printer\n\n→ Corner stores are at the heart of Latin American communities\n\n→ Store owners already provide several financial services: Cash in checks, pay for utilities, mobile phone plans\n\n→ A reputation system can be implemented to represent existing trust on-chain\n\n→ Trusted store owners can print papers as a service for customers who then add their balance\n<center>\n    \n![](https://i.imgur.com/jUQAHSy.png)\n</center>\n\nGithub: https://github.com/allyu-xyz\nJoin the Nerds: https://y.at/%F0%9F%A4%93%E2%9C%89%EF%B8%8F%F0%9F%A4%93"
+    },
+    {
+      "id": "/NerdOS",
+      "metadata": {
+        "permalink": "/nerddao/blog/NerdOS",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/NerdOS.md",
+        "source": "@site/blog/NerdOS.md",
+        "title": "Nerd DAO Delegation proposal",
+        "description": "Introduction",
+        "date": "2022-10-01T02:08:01.000Z",
+        "formattedDate": "October 1, 2022",
+        "tags": [],
+        "readingTime": 4.91,
+        "hasTruncateMarker": false,
+        "authors": [],
+        "frontMatter": {},
+        "prevItem": {
+          "title": "NerdBogota",
+          "permalink": "/nerddao/blog/Nerd-Bogota"
+        },
+        "nextItem": {
+          "title": "Building a Crypto Perpetual Motion Machine",
+          "permalink": "/nerddao/blog/perpetual-motion"
+        }
+      },
+      "content": "##  Introduction\n\nWhat is Nerd DAO?\n\nNerd DAO is a post-work collective of highly capable individuals who gather to talk about anything related to being a Nerd. we tend to talk about cryptocurrencies and the latest developments in science art technology politics and economics. everyone is welcome and its free to join as long as you stay nerdy.\n\n A word about myself. I'm known online as At0x.eth. Before being in crypto I became a M.D but took interest in data science and worked with a research group publishing several papers. Basically, I have always been a huge nerd. I used to play countless hours of WoW as a kid and have been running VR side hustles for over 5 years now. \n<center>\n\n<iframe src=\"https://giphy.com/embed/xghFgmOKbk0G4\" width=\"480\" height=\"321\" frameBorder=\"0\" class=\"giphy-embed\" allowFullScreen></iframe><p><a href=\"https://giphy.com/gifs/smiling-spongebob-squarepants-nerd-xghFgmOKbk0G4\">via GIPHY</a></p>\n\n</center>\n\n\nI've been aware of blockchain for a long time but did only start participating around june 2020 because covid made me reconsider my carreer choice. When I first joined into crypto telegram madness, I found there was no room for deep technical discourse if it was not related to a \"when pump\" statement. In a space where \"in it for the technology\" is used as a joke I needed to create a group where we're really in it for the tech. a place for Nerds.\n\n## Enter The NerdQuarters \nhttps://y.at/🤓✉️🤓\n\n![](https://i.imgur.com/MantluU.jpg)\n\nThe Nerdquarters is the core of the Nerd community. We have created an open source community where nerds come and share information to make sense of it together. It is also a place for newcomers to ask questions and avoid repeating the same mistakes we've already learned from.\n\n\nAs we have grown we have started to interact with alot of new tools for decentralized communities which have allowed us to coordinate to embark on several ventures. We dont need venture capital money because we do everything in house. We just want to have fun and experience the growth of the infinite machine. \n\n\n## NERD DAO\n\nThe Nerd DAO is the on chain representation of the NERD commuinity. We created the DAO using [EthOS](https://ethos.eth.link).  EthOS is a permissionless and decentralized governance protocol that allows anyone to create their own DAO with its own token, treasury and governance interface. We are one of the earliest external users of EthOS. \n\nThe Nerd DAO is not explicitly intended to be a for profit venture. The initial tokens were airdropped to members of the telegram chat. Over 80% of the supply is still held by the Treasury wallet. There are no insider backers and nobody has special privileges or access over the token. Furthermore the NERD Treasury owns the initial LP used for the token. However, we have undertaken for profit ventures in the form of products and services such as our Nerd Fungible Trust group investment and our upcoming [Redacted] trading platform which will pay fees to the DAO.\n\nThrough all these ventures and experiences we have learned a thing or two about how the metaverse is being built. We have also started to etch our own corned of the metaverse by starting to interconnect experiences and information through Web3 interfaces. As our network becomes more expansive we're starting to learn what the metaverse really is and how its different from the way we used to do things. As proof, here's a picture of our latest development meeting for one of our projects.\n<center>\n\n![](https://i.imgur.com/EzihW4B.png)\n</center>\n\n\n\n\n\n## Nerd DAO  Metaverse Manifesto\n\n- We believe that the Metaverse is a series of interconected experiences through which an individual can traverse while preserving their identity. \n    - In that context we believe that the role of the Nerd DAO is to create and connect experiences for its members to traverse. We are here to buidl our corner of the Metaverse.\n\n- We believe that a metaverse is a place for human connection and therefore our goal is to make it enticing for people to inhabit our spaces in order to collaborate, play and learn together.\n\n- We know that the metaverse HAS to be fun. If the metaverse feels like work, you're not doing it right.\n\nNerd has no papers of incorporation, no headquarters, nor even a list of names and locations for its contributors\n\nWe follow [Yearn's](https://twitter.com/iearnfinance/status/1445799269189881864?s=20) radical decentralization model. Which means that anyone can join up our community and contribute. Join the Nerdquarters chat! We are always talking about the daily happenings and there's plenty of people eager to explain away any questions others may have. Once you are there you can join our development groups or create your own and recieve help and guidance from the other nerds on how to apply your time to start your crypto adventure.\n\n\n\n\n\n## Nerds <3 EthOS\n\nThe purpose of the NERD delegation for ETHOs will be to create venues and opportunities to showcase the power of the ETHOS protocol as a tool to build an online community. By creating forkable products that solve different challenges nerds face (such as trustless bitcoin bridges or AI NFTs) we can increase useage of the EthOS protocol by enhancing the smart contract  landscape of the base layer [what a sentence!!]\n\nAdittionaly NerdDAO will spearhead the organization of a recurrent hackathon and digital event to showcase and support projects built with the EthOS stack. We will demonstrate how different problems can be solved using the codebase and have a dev team trained to create front ends for contracts deployed using EthOS factories.\n\n\n## Scope of the NERD Delegation\n\nThe purpose of the NERD delegation is to showcase EthereansOS protocol asa a tool to build decentralized communities. this includes several avenues:\n\n1) Utilizing and showcasing the use of EthOS protocol on products developed by Nerd\n2) Creating a starter kit to simplify developing interfaces with EthOS products\n3) Organizing events to communicate the goals of the protocol, create products that leverage the EthOS stack and showcase products and communities built on it"
+    },
+    {
       "id": "perpetual-motion",
       "metadata": {
         "permalink": "/nerddao/blog/perpetual-motion",
@@ -8,8 +86,8 @@
         "source": "@site/blog/crypto-perpetual-motion-machine.md",
         "title": "Building a Crypto Perpetual Motion Machine",
         "description": "\"Oh ye seekers after perpetual motion, how many vain chimeras have you pursued? Go and take your place with the alchemists.\"",
-        "date": "2022-08-02T02:27:01.480Z",
-        "formattedDate": "August 2, 2022",
+        "date": "2022-10-01T02:08:01.000Z",
+        "formattedDate": "October 1, 2022",
         "tags": [
           {
             "label": "strudel",
@@ -40,6 +118,10 @@
             "bitcoin"
           ]
         },
+        "prevItem": {
+          "title": "Nerd DAO Delegation proposal",
+          "permalink": "/nerddao/blog/NerdOS"
+        },
         "nextItem": {
           "title": "What is 🧠🧠🧠🤓?",
           "permalink": "/nerddao/blog/what-is-nerd"
@@ -55,8 +137,8 @@
         "source": "@site/blog/what-is-NERD.md",
         "title": "What is 🧠🧠🧠🤓?",
         "description": "Introduction",
-        "date": "2022-08-01T16:07:12.165Z",
-        "formattedDate": "August 1, 2022",
+        "date": "2022-10-01T02:08:01.000Z",
+        "formattedDate": "October 1, 2022",
         "tags": [
           {
             "label": "nerddao",

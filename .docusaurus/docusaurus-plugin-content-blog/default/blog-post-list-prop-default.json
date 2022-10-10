@@ -2,6 +2,14 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "NerdBogota",
+      "permalink": "/nerddao/blog/Nerd-Bogota"
+    },
+    {
+      "title": "Nerd DAO Delegation proposal",
+      "permalink": "/nerddao/blog/NerdOS"
+    },
+    {
       "title": "Building a Crypto Perpetual Motion Machine",
       "permalink": "/nerddao/blog/perpetual-motion"
     },

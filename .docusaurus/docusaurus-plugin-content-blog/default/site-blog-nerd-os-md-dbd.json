@@ -1,0 +1,22 @@
+{
+  "permalink": "/nerddao/blog/NerdOS",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/NerdOS.md",
+  "source": "@site/blog/NerdOS.md",
+  "title": "Nerd DAO Delegation proposal",
+  "description": "Introduction",
+  "date": "2022-10-01T02:08:01.000Z",
+  "formattedDate": "October 1, 2022",
+  "tags": [],
+  "readingTime": 4.91,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "prevItem": {
+    "title": "NerdBogota",
+    "permalink": "/nerddao/blog/Nerd-Bogota"
+  },
+  "nextItem": {
+    "title": "Building a Crypto Perpetual Motion Machine",
+    "permalink": "/nerddao/blog/perpetual-motion"
+  }
+}

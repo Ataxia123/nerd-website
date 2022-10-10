@@ -4,8 +4,8 @@
   "source": "@site/blog/crypto-perpetual-motion-machine.md",
   "title": "Building a Crypto Perpetual Motion Machine",
   "description": "\"Oh ye seekers after perpetual motion, how many vain chimeras have you pursued? Go and take your place with the alchemists.\"",
-  "date": "2022-08-02T02:27:01.480Z",
-  "formattedDate": "August 2, 2022",
+  "date": "2022-10-01T02:08:01.000Z",
+  "formattedDate": "October 1, 2022",
   "tags": [
     {
       "label": "strudel",
@@ -35,6 +35,10 @@
       "strudel",
       "bitcoin"
     ]
+  },
+  "prevItem": {
+    "title": "Nerd DAO Delegation proposal",
+    "permalink": "/nerddao/blog/NerdOS"
   },
   "nextItem": {
     "title": "What is 🧠🧠🧠🤓?",
