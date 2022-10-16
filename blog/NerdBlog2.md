@@ -25,19 +25,19 @@ Once your team has been formed and the hackathon officially begins. Its off to t
 An important thing to keep in mind is that you dont necesarly need to be a super coder to participate in these events. There is a lot of work to be done in any project around documentation, graphic design, product ideation and narrative that really makes a difference to make your project stand out. 
 
 The judging process for the hacks is very brief and you dont really get too much time to go over small details, so its important to get straight to the point and try to have a long lasting impression. At the end of the day the Hackathon is not about winning but rather sharing ideas and connecting to people. I hope more Nerds will start participating in these events soon. Here is our submission to the hackathon. If you find it interesting and would like to help out with this idea feel free to reach out at the NerdQuarters.
-<center>
+<p align="center">
     
-# [Allyu.xyz ](https://Allyu.xyz )
-    
-  ![](https://i.imgur.com/cikwHhm.png)
+<h1> Allyu.xyz </h1>
+
+  <img src="https://i.imgur.com/cikwHhm.png"/>
 
 
 ## A community-based protocol to issue crypto-backed money
     
-</center>
+</p>
 
 ### Objectives: 
-
+ya
 - To create a system that communities can leverage to issue their own trustless paper money backed entirely by crypto deposits.
 - Onboard community leaders into crypto and enable them to lead by example in the adoption of web3.
 - To increase the transactability of Ethereum based products by introducing them into the heart of the Latin American community: the corner store. allowing recipients to purchase food and other vital supplies with crypto money
@@ -70,7 +70,7 @@ In order to gain mass adoption, Web3 protocols need to start with the simplest u
 
 ![](https://i.imgur.com/xTsQA8c.png)
 
-<center>
+<p align="center">
 
 
 
@@ -93,7 +93,7 @@ In order to gain mass adoption, Web3 protocols need to start with the simplest u
 
 ![](https://i.imgur.com/YS4jQBB.png)
     
-</center>
+</p>
 
 ### Pitfalls ToDO & future work
 
@@ -116,11 +116,13 @@ In order to gain mass adoption, Web3 protocols need to start with the simplest u
 → A reputation system can be implemented to represent existing trust on-chain
 
 → Trusted store owners can print papers as a service for customers who then add their balance
-<center>
+<p align="center">
     
-![](https://i.imgur.com/jUQAHSy.png)
-</center>
+<img src="https://i.imgur.com/jUQAHSy.png"/>
+
+</p>
 
 Github: https://github.com/allyu-xyz
+
 Join the Nerds: https://y.at/%F0%9F%A4%93%E2%9C%89%EF%B8%8F%F0%9F%A4%93
 
