@@ -1,6 +1,114 @@
 {
   "blogPosts": [
     {
+      "id": "Network-State",
+      "metadata": {
+        "permalink": "/nerddao/blog/Network-State",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/Nerdcon.md",
+        "source": "@site/blog/Nerdcon.md",
+        "title": "Visiting the Network State",
+        "description": ".",
+        "date": "2022-10-16T03:01:51.597Z",
+        "formattedDate": "October 16, 2022",
+        "tags": [
+          {
+            "label": "nerddao",
+            "permalink": "/nerddao/blog/tags/nerddao"
+          },
+          {
+            "label": "DevCon",
+            "permalink": "/nerddao/blog/tags/dev-con"
+          },
+          {
+            "label": "ethereum",
+            "permalink": "/nerddao/blog/tags/ethereum"
+          }
+        ],
+        "readingTime": 3.595,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "At0x",
+            "title": "chief nerd"
+          }
+        ],
+        "frontMatter": {
+          "slug": "Network-State",
+          "title": "Visiting the Network State",
+          "authors": {
+            "name": "At0x",
+            "title": "chief nerd"
+          },
+          "tags": [
+            "nerddao",
+            "DevCon",
+            "ethereum"
+          ]
+        },
+        "nextItem": {
+          "title": "Infinite Universe Alliance Announcement",
+          "permalink": "/nerddao/blog/infinite-universe"
+        }
+      },
+      "content": "![](https://i.imgur.com/aUMLH8H.jpg)\n\n\n\n\n.\n## NerdCon: Visiting the Network State\n\nDevcon is an annual conference for Ethereum developers and other interested parties. This year, it was held in Bogota, Colombia. For a week, participants discussed Ethereum development and other related topics.\n\nOne of the main goals of Devcon is to build a strong network of developers who can work together to improve Ethereum and create new applications using its technology. In this way, Devcon also serves as a sort of \"network state\" - a community with the capacity for collective action that can fund territory around the world and eventually gain diplomatic recognition from pre-existing states.\n\nA side note on the the venue for the conference, Agora: It is a huge, imposing structure located in the heart of Bogota. It's one of the largest convention centers in all of South America, and it's constantly buzzing with activity. The building has a long and storied history, and it's played a major role in the development of Bogota.\n\n\n\n<p align=\"center\">\n    \n\n  <img src=\"https://i.imgur.com/7YNHaGC.jpg\"/>\n\n    \n</p>\n\nThe Agora Building was originally built back in 1954. It was initially used as a livestock market, but it soon became clear that there was much more potential for the building. In 1967, the Agora building was repurposed into a convention center. This proved to be a major boon for Bogota, as the city quickly became a major destination for conventions and trade shows.\n\n This was a perfect setting to host the Network State, and the organizers went above and beyond to make sure that everyone had a great time. The main talks of the conference were very insightful, and it was great to see so many people come together to discuss ways to scale Ethereum and resist censorship.\n\nI like to think of the Network State as a \"collective of collectives\" where everyone is representing the communities they belong to. This was evident at Devcon, where developers from all over the world came together to showcase their projects and share their experiences. One of the main benefits of being part of this community is the ability to radically collaborate. \n\nThe only real way to become part of the network state is to join one of the communities that makes up the network state. I came into DevCon representing NerdQuarters but also connected to and ended up representing the BuidlGuidl. The BuidlGuidl.com is a collective of web3 builders that believe that by sharing ideas and working together, we will able to make faster progress than what we would have been able to achieve on our own. The Guild has a tool [Scaffold-ETH](https://docs.scaffoldeth.io/scaffold-eth/) that makes it easy to start developing in Web3. We then spent the whole time talking to other projects about how we could coordinate to create even more compelling use cases. Its a community built on the Open Source ethos and composability.\n\n\n My time with the buidlguidl let me experience firsthand the support and camaraderie that members provide one another. This was especially apparent during the week-long conference, where developers were eager to help one another learn new skills and solve problems. We were showcasing https://speedrunethereum.com which is a tool to learn Web3 development and make it easty to start making dapps. We heard from many atendees that told us that the speedrun helped them to understand Web3 or that they had used it to write the smart contracts that won ETHBogota. \n\n![](https://i.imgur.com/iLXESal.png)\n\nThe sense of community that exists within the BuidlGuidl is incredibly valuable, as it allows members to feel like they are a part of something larger than themselves. The buidlguidl supports its members by giving streams to meaningful crontributions. We also will play a key role between protocols and developers by creating starter kits along with prizes that incentivize our members to discover new protocols and create the next big thing on chain.\n\nThe future of the BuidlGuidl and the network state it represents is bright. With more and more people getting involved in Ethereum development, the community will only continue to grow and thrive.  Overall, DevCon was an incredible experience and everyone who attended should be very proud of what they have accomplished. The parties at the conference were also a lot of fun, and it was great to see so many people come together to celebrate this amazing technology.\n\n\nJoin the Nerds! https://y.at/🤓✉🤓"
+    },
+    {
+      "id": "infinite-universe",
+      "metadata": {
+        "permalink": "/nerddao/blog/infinite-universe",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/aiUniverse.md",
+        "source": "@site/blog/aiUniverse.md",
+        "title": "Infinite Universe Alliance Announcement",
+        "description": "Introduction",
+        "date": "2022-10-16T03:01:43.257Z",
+        "formattedDate": "October 16, 2022",
+        "tags": [
+          {
+            "label": "nerd",
+            "permalink": "/nerddao/blog/tags/nerd"
+          },
+          {
+            "label": "nft",
+            "permalink": "/nerddao/blog/tags/nft"
+          },
+          {
+            "label": "AI",
+            "permalink": "/nerddao/blog/tags/ai"
+          }
+        ],
+        "readingTime": 3.835,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "At0x",
+            "title": "chief nerd"
+          }
+        ],
+        "frontMatter": {
+          "slug": "infinite-universe",
+          "title": "Infinite Universe Alliance Announcement",
+          "authors": {
+            "name": "At0x",
+            "title": "chief nerd"
+          },
+          "tags": [
+            "nerd",
+            "nft",
+            "AI"
+          ]
+        },
+        "prevItem": {
+          "title": "Visiting the Network State",
+          "permalink": "/nerddao/blog/Network-State"
+        },
+        "nextItem": {
+          "title": "NerdBogota",
+          "permalink": "/nerddao/blog/Nerd-Bogota"
+        }
+      },
+      "content": "### Introduction\n![](https://i.imgur.com/VnCExrM.jpg)\n\nThe Observable Universe is finite, and it hasn't existed forever. It extends 46 billion light years in every direction from us. However, when telescopes fail our imagination can take us to infinity and beyond. A revolutionary new kind of camera was recently invented. Instead of turning light into pictures, it turns ideas into pictures using AI.This new kind of camera replicates what your imagination does. It receives words and then synthesizes a picture from its experience seeing millions of other pictures. the result is a synthograph (meaning synthetic drawing). With these synthographs we can explore the Infinite Universe.\n\n\n### Infinite Universe Alliance\n\nThe Infinite Universe Alliance is a collection of 10,000 unique Captains(and Gods!) that inhabit the Infinite Universe. The collection was created using a structured prompt with distinct elements that determine the NFT's attributes. We have spent over 400 hours of computing time and picked each output individually to imagine impossible and unique Superheroes, Supervillains and Gods that create a rich internal narrative that you can build on as you please.\n\nWe hope that this sets the stage for the community to collectively create a galaxy of stories in which these entities strive for survival, control and expansion throughout the Infinite Universe\n\n\n\n## How we did it\n\nIn order to create a cohesive collection we designed a structured prompt. Each part of the prompt is turned into a trait in the collection. In the table below we show some examples of how the prompts are structured.\n\n| [Type] | [Attributes] | [Modifiers]|[Faction] | [Allignment] | [Output]\n| -------- | -------- | -------- | -------- |-----|---|\n| Captain     | 🔮 🐌     | robot | Superhero   |chaotic neutral|![](https://i.imgur.com/K96c1NM.jpg)\n| Captain     | incredible   | warrior | Supervillian   |chaotic good|![](https://i.imgur.com/oyP6BoA.jpg)\n| Captain     | :fire:star    | ---------------  |Superhero   |chaotic neutral|![](https://i.imgur.com/s796taW.jpg)\n| God of      | :fire::banana:    | --------------- | ---------------   |chaotic neutral|![](https://i.imgur.com/QquxL2p.jpg)\n\n\nWe started by determining whether it's a Captain or a God, then we chose their defining characteristics and the subject modifier. The subject modifiers were discovered in the process of generating thousands of variations. Examples of modifiers are robot, samurai, zombie. These keywords act as a filter for the AI which create a specific look that we can mix with the other portions of the prompt. \n\nTo maintain consistency, we divided all captains into either Superheroes or a Supervillains . Finally, we used the standard alignment chart made popular in tabletop RPG games to create a variety of unique outputs for each prompt. The result is a collection of 10,000 completely unique characters that share a consistent set of traits through which  many different power levels themes and styles are represented. \n\n## Built in Provenance\n\nA side effect of synthography is that every output contains a hash that corresponds to the Midjourney job ID that created it. This will also be encoded as an extra trait that will allow users to verify the provenance of the NFT down to the timestamp when it was created. The collection was generated over 10 days of nonstop spamming prompts between a few synthers that jammed off of each other ideas to create all the variety that we now present. Someone could determine who came up with the original zombie (Doug09 did) and then you can see them appear across the collection and become one of the features of the middle part of the generation. As more people joined in new concepts are included which are then explored by the group. Overall creating this collection has been an incredible experience in imagination, collaboration and creative expression.\n\n\n## THIS IS NOT A METAVERSE, it's an Infinite Universe\n\n\nThe NFT market is filled with projects selling you their \"Metaverse\". However, we believe that they're all wrong. A metaverse is a collection of universes you can traverse. We already live in the metaverse. It's made out of our base reality plus the Star Wars Universe, the Marvel Universe, the Bored Ape YC universe and so on. Maybe they dont know it, but they're all building their own Universe, which is a PART of THE Metaverse.\n\nThe purpose of the NFT collection is to establish a base cannon where all of the entities we created exist within the same Infinite Universe. That means that owning an NFT of this collection gives you the ability to tell a part of the story of the AI-U yourself. With synthography you can create an infinity of worlds, challenges and adventures for your character to explore. Collectively the sum of these stories will create the most awesome adventure ever told.\n\n## Links\nDiscord: https://discord.gg/AauPutnx\n\nWebpage: https://ai-universe.io/\n\nTwitter: [@AI_UniverseNFT](https://twitter.com/AI_UniverseNFT)\n\nNerdQuarters:https://y.at/🤓✉️🤓"
+    },
+    {
       "id": "Nerd-Bogota",
       "metadata": {
         "permalink": "/nerddao/blog/Nerd-Bogota",
@@ -44,6 +152,10 @@
             "hacks",
             "ethereum"
           ]
+        },
+        "prevItem": {
+          "title": "Infinite Universe Alliance Announcement",
+          "permalink": "/nerddao/blog/infinite-universe"
         },
         "nextItem": {
           "title": "Nerd DAO Delegation proposal",

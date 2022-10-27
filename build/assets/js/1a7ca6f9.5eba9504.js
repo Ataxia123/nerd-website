@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[7137],{9215:e=>{e.exports=JSON.parse('{"label":"nft","permalink":"/nerddao/blog/tags/nft","allTagsPath":"/nerddao/blog/tags","count":1}')}}]);

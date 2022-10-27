@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[5486],{5572:e=>{e.exports=JSON.parse('{"label":"bitcoin","permalink":"/nerddao/blog/tags/bitcoin","allTagsPath":"/nerddao/blog/tags","count":2}')}}]);

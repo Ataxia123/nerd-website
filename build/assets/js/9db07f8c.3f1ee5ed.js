@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[8124],{7846:e=>{e.exports=JSON.parse('{"label":"DevCon","permalink":"/nerddao/blog/tags/dev-con","allTagsPath":"/nerddao/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[4592],{1768:e=>{e.exports=JSON.parse('{"label":"hacks","permalink":"/nerddao/blog/tags/hacks","allTagsPath":"/nerddao/blog/tags","count":1}')}}]);

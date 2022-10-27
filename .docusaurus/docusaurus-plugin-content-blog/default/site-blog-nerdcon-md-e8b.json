@@ -1,0 +1,48 @@
+{
+  "permalink": "/nerddao/blog/Network-State",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/Nerdcon.md",
+  "source": "@site/blog/Nerdcon.md",
+  "title": "Visiting the Network State",
+  "description": ".",
+  "date": "2022-10-16T03:01:51.597Z",
+  "formattedDate": "October 16, 2022",
+  "tags": [
+    {
+      "label": "nerddao",
+      "permalink": "/nerddao/blog/tags/nerddao"
+    },
+    {
+      "label": "DevCon",
+      "permalink": "/nerddao/blog/tags/dev-con"
+    },
+    {
+      "label": "ethereum",
+      "permalink": "/nerddao/blog/tags/ethereum"
+    }
+  ],
+  "readingTime": 3.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Network-State",
+    "title": "Visiting the Network State",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "nerddao",
+      "DevCon",
+      "ethereum"
+    ]
+  },
+  "nextItem": {
+    "title": "Infinite Universe Alliance Announcement",
+    "permalink": "/nerddao/blog/infinite-universe"
+  }
+}

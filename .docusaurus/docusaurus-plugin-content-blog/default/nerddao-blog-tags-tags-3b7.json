@@ -2,16 +2,36 @@
   {
     "label": "nerddao",
     "permalink": "/nerddao/blog/tags/nerddao",
-    "count": 2
+    "count": 3
   },
   {
-    "label": "hacks",
-    "permalink": "/nerddao/blog/tags/hacks",
+    "label": "DevCon",
+    "permalink": "/nerddao/blog/tags/dev-con",
     "count": 1
   },
   {
     "label": "ethereum",
     "permalink": "/nerddao/blog/tags/ethereum",
+    "count": 2
+  },
+  {
+    "label": "nerd",
+    "permalink": "/nerddao/blog/tags/nerd",
+    "count": 1
+  },
+  {
+    "label": "nft",
+    "permalink": "/nerddao/blog/tags/nft",
+    "count": 1
+  },
+  {
+    "label": "AI",
+    "permalink": "/nerddao/blog/tags/ai",
+    "count": 1
+  },
+  {
+    "label": "hacks",
+    "permalink": "/nerddao/blog/tags/hacks",
     "count": 1
   },
   {

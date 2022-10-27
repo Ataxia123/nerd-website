@@ -1,0 +1,52 @@
+{
+  "permalink": "/nerddao/blog/infinite-universe",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/aiUniverse.md",
+  "source": "@site/blog/aiUniverse.md",
+  "title": "Infinite Universe Alliance Announcement",
+  "description": "Introduction",
+  "date": "2022-10-16T03:01:43.257Z",
+  "formattedDate": "October 16, 2022",
+  "tags": [
+    {
+      "label": "nerd",
+      "permalink": "/nerddao/blog/tags/nerd"
+    },
+    {
+      "label": "nft",
+      "permalink": "/nerddao/blog/tags/nft"
+    },
+    {
+      "label": "AI",
+      "permalink": "/nerddao/blog/tags/ai"
+    }
+  ],
+  "readingTime": 3.835,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "infinite-universe",
+    "title": "Infinite Universe Alliance Announcement",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "nerd",
+      "nft",
+      "AI"
+    ]
+  },
+  "prevItem": {
+    "title": "Visiting the Network State",
+    "permalink": "/nerddao/blog/Network-State"
+  },
+  "nextItem": {
+    "title": "NerdBogota",
+    "permalink": "/nerddao/blog/Nerd-Bogota"
+  }
+}
