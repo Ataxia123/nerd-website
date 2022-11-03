@@ -1,16 +1,41 @@
 {
-  "permalink": "/nerddao/blog/NerdOS",
+  "permalink": "/nerddao/blog/Nerd-OS",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/NerdOS.md",
   "source": "@site/blog/NerdOS.md",
-  "title": "Nerd DAO Delegation proposal",
+  "title": "NerdOs Delegation Proposal",
   "description": "Introduction",
   "date": "2022-10-01T02:08:01.000Z",
   "formattedDate": "October 1, 2022",
-  "tags": [],
+  "tags": [
+    {
+      "label": "nerddao",
+      "permalink": "/nerddao/blog/tags/nerddao"
+    },
+    {
+      "label": "EthOs",
+      "permalink": "/nerddao/blog/tags/eth-os"
+    }
+  ],
   "readingTime": 4.91,
   "hasTruncateMarker": false,
-  "authors": [],
-  "frontMatter": {},
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Nerd-OS",
+    "title": "NerdOs Delegation Proposal",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "nerddao",
+      "EthOs"
+    ]
+  },
   "prevItem": {
     "title": "NerdBogota",
     "permalink": "/nerddao/blog/Nerd-Bogota"

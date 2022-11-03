@@ -1,0 +1,58 @@
+{
+  "permalink": "/nerddao/blog/Nerd-OS-Update",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/NerdOsUpdate.md",
+  "source": "@site/blog/NerdOsUpdate.md",
+  "title": "NerdOs Delegation Update",
+  "description": "Introduction",
+  "date": "2022-11-03T19:58:33.775Z",
+  "formattedDate": "November 3, 2022",
+  "tags": [
+    {
+      "label": "nerddao",
+      "permalink": "/nerddao/blog/tags/nerddao"
+    },
+    {
+      "label": "EthOs",
+      "permalink": "/nerddao/blog/tags/eth-os"
+    },
+    {
+      "label": "BuidlGuild",
+      "permalink": "/nerddao/blog/tags/buidl-guild"
+    },
+    {
+      "label": "Strudel",
+      "permalink": "/nerddao/blog/tags/strudel"
+    },
+    {
+      "label": "AIUniverse",
+      "permalink": "/nerddao/blog/tags/ai-universe"
+    }
+  ],
+  "readingTime": 2.56,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Nerd-OS-Update",
+    "title": "NerdOs Delegation Update",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "nerddao",
+      "EthOs",
+      "BuidlGuild",
+      "Strudel",
+      "AIUniverse"
+    ]
+  },
+  "nextItem": {
+    "title": "Visiting the Network State",
+    "permalink": "/nerddao/blog/Network-State"
+  }
+}

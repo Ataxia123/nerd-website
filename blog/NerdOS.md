@@ -1,3 +1,12 @@
+---
+slug: Nerd-OS
+title:  NerdOs Delegation Proposal
+authors:
+  name: At0x
+  title: chief nerd
+tags: [nerddao, EthOs]
+---
+
 # Nerd DAO Delegation proposal
 
 ##  Introduction

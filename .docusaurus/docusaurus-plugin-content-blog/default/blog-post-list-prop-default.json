@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "NerdOs Delegation Update",
+      "permalink": "/nerddao/blog/Nerd-OS-Update"
+    },
+    {
       "title": "Visiting the Network State",
       "permalink": "/nerddao/blog/Network-State"
     },
@@ -14,12 +18,8 @@
       "permalink": "/nerddao/blog/Nerd-Bogota"
     },
     {
-      "title": "Nerd DAO Delegation proposal",
-      "permalink": "/nerddao/blog/NerdOS"
-    },
-    {
-      "title": "Building a Crypto Perpetual Motion Machine",
-      "permalink": "/nerddao/blog/perpetual-motion"
+      "title": "NerdOs Delegation Proposal",
+      "permalink": "/nerddao/blog/Nerd-OS"
     }
   ]
 }

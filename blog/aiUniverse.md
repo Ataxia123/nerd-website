@@ -4,7 +4,7 @@ title: Infinite Universe Alliance Announcement
 authors:
   name: At0x
   title: chief nerd
-tags: [nerd, nft, AI]
+tags: [nerd, nft, AIUniverse]
 ---
 
 ### Introduction
@@ -50,7 +50,7 @@ The NFT market is filled with projects selling you their "Metaverse". However, w
 The purpose of the NFT collection is to establish a base cannon where all of the entities we created exist within the same Infinite Universe. That means that owning an NFT of this collection gives you the ability to tell a part of the story of the AI-U yourself. With synthography you can create an infinity of worlds, challenges and adventures for your character to explore. Collectively the sum of these stories will create the most awesome adventure ever told.
 
 ## Links
-Discord: https://discord.gg/AauPutnx
+Discord: https://discord.gg/gMvN2S5Rpm
 
 Webpage: https://ai-universe.io/
 

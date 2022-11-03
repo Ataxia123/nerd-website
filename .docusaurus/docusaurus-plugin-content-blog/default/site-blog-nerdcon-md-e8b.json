@@ -4,8 +4,8 @@
   "source": "@site/blog/Nerdcon.md",
   "title": "Visiting the Network State",
   "description": ".",
-  "date": "2022-10-16T03:01:51.597Z",
-  "formattedDate": "October 16, 2022",
+  "date": "2022-10-27T19:03:44.000Z",
+  "formattedDate": "October 27, 2022",
   "tags": [
     {
       "label": "nerddao",
@@ -40,6 +40,10 @@
       "DevCon",
       "ethereum"
     ]
+  },
+  "prevItem": {
+    "title": "NerdOs Delegation Update",
+    "permalink": "/nerddao/blog/Nerd-OS-Update"
   },
   "nextItem": {
     "title": "Infinite Universe Alliance Announcement",

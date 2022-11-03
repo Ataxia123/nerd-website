@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/nerddao/blog',
-    component: ComponentCreator('/nerddao/blog', '28d'),
+    component: ComponentCreator('/nerddao/blog', '44a'),
     exact: true
   },
   {
@@ -23,8 +23,13 @@ export default [
     exact: true
   },
   {
-    path: '/nerddao/blog/NerdOS',
-    component: ComponentCreator('/nerddao/blog/NerdOS', '29c'),
+    path: '/nerddao/blog/Nerd-OS',
+    component: ComponentCreator('/nerddao/blog/Nerd-OS', '57f'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/Nerd-OS-Update',
+    component: ComponentCreator('/nerddao/blog/Nerd-OS-Update', '55d'),
     exact: true
   },
   {
@@ -48,8 +53,8 @@ export default [
     exact: true
   },
   {
-    path: '/nerddao/blog/tags/ai',
-    component: ComponentCreator('/nerddao/blog/tags/ai', '73a'),
+    path: '/nerddao/blog/tags/ai-universe',
+    component: ComponentCreator('/nerddao/blog/tags/ai-universe', 'eef'),
     exact: true
   },
   {
@@ -58,8 +63,18 @@ export default [
     exact: true
   },
   {
+    path: '/nerddao/blog/tags/buidl-guild',
+    component: ComponentCreator('/nerddao/blog/tags/buidl-guild', '904'),
+    exact: true
+  },
+  {
     path: '/nerddao/blog/tags/dev-con',
     component: ComponentCreator('/nerddao/blog/tags/dev-con', 'ee2'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/tags/eth-os',
+    component: ComponentCreator('/nerddao/blog/tags/eth-os', '7cf'),
     exact: true
   },
   {
@@ -79,7 +94,7 @@ export default [
   },
   {
     path: '/nerddao/blog/tags/nerddao',
-    component: ComponentCreator('/nerddao/blog/tags/nerddao', '52a'),
+    component: ComponentCreator('/nerddao/blog/tags/nerddao', 'dfd'),
     exact: true
   },
   {
@@ -89,7 +104,7 @@ export default [
   },
   {
     path: '/nerddao/blog/tags/strudel',
-    component: ComponentCreator('/nerddao/blog/tags/strudel', '3a5'),
+    component: ComponentCreator('/nerddao/blog/tags/strudel', '110'),
     exact: true
   },
   {

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[6162],{4810:e=>{e.exports=JSON.parse('{"label":"BuidlGuild","permalink":"/nerddao/blog/tags/buidl-guild","allTagsPath":"/nerddao/blog/tags","count":1}')}}]);

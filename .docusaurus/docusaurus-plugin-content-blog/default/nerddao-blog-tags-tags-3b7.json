@@ -2,7 +2,27 @@
   {
     "label": "nerddao",
     "permalink": "/nerddao/blog/tags/nerddao",
+    "count": 5
+  },
+  {
+    "label": "EthOs",
+    "permalink": "/nerddao/blog/tags/eth-os",
+    "count": 2
+  },
+  {
+    "label": "BuidlGuild",
+    "permalink": "/nerddao/blog/tags/buidl-guild",
+    "count": 1
+  },
+  {
+    "label": "Strudel",
+    "permalink": "/nerddao/blog/tags/strudel",
     "count": 3
+  },
+  {
+    "label": "AIUniverse",
+    "permalink": "/nerddao/blog/tags/ai-universe",
+    "count": 2
   },
   {
     "label": "DevCon",
@@ -25,19 +45,9 @@
     "count": 1
   },
   {
-    "label": "AI",
-    "permalink": "/nerddao/blog/tags/ai",
-    "count": 1
-  },
-  {
     "label": "hacks",
     "permalink": "/nerddao/blog/tags/hacks",
     "count": 1
-  },
-  {
-    "label": "strudel",
-    "permalink": "/nerddao/blog/tags/strudel",
-    "count": 2
   },
   {
     "label": "bitcoin",
