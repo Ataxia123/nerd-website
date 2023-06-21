@@ -1,0 +1,47 @@
+{
+  "permalink": "/nerddao/blog/strudel-briefing",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/bitcoin-investment-briefing.md",
+  "source": "@site/blog/bitcoin-investment-briefing.md",
+  "title": "Strudel Bitcoin Investment Briefing",
+  "description": "The Strudel Bridge",
+  "date": "2023-06-21T15:46:37.710Z",
+  "formattedDate": "June 21, 2023",
+  "tags": [
+    {
+      "label": "strudel",
+      "permalink": "/nerddao/blog/tags/strudel"
+    },
+    {
+      "label": "bitcoin",
+      "permalink": "/nerddao/blog/tags/bitcoin"
+    }
+  ],
+  "readingTime": 4.815,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "At0x",
+      "title": "chief nerd"
+    }
+  ],
+  "frontMatter": {
+    "slug": "strudel-briefing",
+    "title": "Strudel Bitcoin Investment Briefing",
+    "authors": {
+      "name": "At0x",
+      "title": "chief nerd"
+    },
+    "tags": [
+      "strudel",
+      "bitcoin"
+    ]
+  },
+  "prevItem": {
+    "title": "WalletAsAServer",
+    "permalink": "/nerddao/blog/WAAS"
+  },
+  "nextItem": {
+    "title": "NerdOs Delegation Update",
+    "permalink": "/nerddao/blog/Nerd-OS-Update"
+  }
+}

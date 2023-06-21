@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[5790],{5393:e=>{e.exports=JSON.parse('{"label":"ethereum","permalink":"/nerddao/blog/tags/ethereum","allTagsPath":"/nerddao/blog/tags","count":2}')}}]);

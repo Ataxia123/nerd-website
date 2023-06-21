@@ -4,7 +4,7 @@
   "source": "@site/blog/NerdOsUpdate.md",
   "title": "NerdOs Delegation Update",
   "description": "Introduction",
-  "date": "2022-11-03T19:58:33.775Z",
+  "date": "2022-11-03T20:06:18.000Z",
   "formattedDate": "November 3, 2022",
   "tags": [
     {
@@ -50,6 +50,10 @@
       "Strudel",
       "AIUniverse"
     ]
+  },
+  "prevItem": {
+    "title": "Strudel Bitcoin Investment Briefing",
+    "permalink": "/nerddao/blog/strudel-briefing"
   },
   "nextItem": {
     "title": "Visiting the Network State",

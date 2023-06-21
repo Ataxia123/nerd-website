@@ -2,7 +2,27 @@
   {
     "label": "nerddao",
     "permalink": "/nerddao/blog/tags/nerddao",
-    "count": 5
+    "count": 6
+  },
+  {
+    "label": "hacks",
+    "permalink": "/nerddao/blog/tags/hacks",
+    "count": 2
+  },
+  {
+    "label": "ethereum",
+    "permalink": "/nerddao/blog/tags/ethereum",
+    "count": 3
+  },
+  {
+    "label": "strudel",
+    "permalink": "/nerddao/blog/tags/strudel",
+    "count": 3
+  },
+  {
+    "label": "bitcoin",
+    "permalink": "/nerddao/blog/tags/bitcoin",
+    "count": 2
   },
   {
     "label": "EthOs",
@@ -15,11 +35,6 @@
     "count": 1
   },
   {
-    "label": "Strudel",
-    "permalink": "/nerddao/blog/tags/strudel",
-    "count": 3
-  },
-  {
     "label": "AIUniverse",
     "permalink": "/nerddao/blog/tags/ai-universe",
     "count": 2
@@ -30,11 +45,6 @@
     "count": 1
   },
   {
-    "label": "ethereum",
-    "permalink": "/nerddao/blog/tags/ethereum",
-    "count": 2
-  },
-  {
     "label": "nerd",
     "permalink": "/nerddao/blog/tags/nerd",
     "count": 1
@@ -43,15 +53,5 @@
     "label": "nft",
     "permalink": "/nerddao/blog/tags/nft",
     "count": 1
-  },
-  {
-    "label": "hacks",
-    "permalink": "/nerddao/blog/tags/hacks",
-    "count": 1
-  },
-  {
-    "label": "bitcoin",
-    "permalink": "/nerddao/blog/tags/bitcoin",
-    "count": 2
   }
 ]

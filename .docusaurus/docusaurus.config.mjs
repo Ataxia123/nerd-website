@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/ataxia/WIP/nerd-website/sidebars.js",
+          "sidebarPath": "/home/at0x/hackzor/nw/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/ataxia/WIP/nerd-website/src/css/custom.css"
+          "customCss": "/home/at0x/hackzor/nw/src/css/custom.css"
         }
       }
     ]
@@ -109,7 +109,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

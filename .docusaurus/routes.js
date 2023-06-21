@@ -4,122 +4,127 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/nerddao/blog',
-    component: ComponentCreator('/nerddao/blog', '44a'),
+    component: ComponentCreator('/nerddao/blog', '8b6'),
     exact: true
   },
   {
     path: '/nerddao/blog/archive',
-    component: ComponentCreator('/nerddao/blog/archive', 'b6c'),
+    component: ComponentCreator('/nerddao/blog/archive', 'ae1'),
     exact: true
   },
   {
     path: '/nerddao/blog/infinite-universe',
-    component: ComponentCreator('/nerddao/blog/infinite-universe', 'd94'),
+    component: ComponentCreator('/nerddao/blog/infinite-universe', 'd1b'),
     exact: true
   },
   {
     path: '/nerddao/blog/Nerd-Bogota',
-    component: ComponentCreator('/nerddao/blog/Nerd-Bogota', 'ae6'),
+    component: ComponentCreator('/nerddao/blog/Nerd-Bogota', '546'),
     exact: true
   },
   {
     path: '/nerddao/blog/Nerd-OS',
-    component: ComponentCreator('/nerddao/blog/Nerd-OS', '57f'),
+    component: ComponentCreator('/nerddao/blog/Nerd-OS', '836'),
     exact: true
   },
   {
     path: '/nerddao/blog/Nerd-OS-Update',
-    component: ComponentCreator('/nerddao/blog/Nerd-OS-Update', '55d'),
+    component: ComponentCreator('/nerddao/blog/Nerd-OS-Update', 'ed6'),
     exact: true
   },
   {
     path: '/nerddao/blog/Network-State',
-    component: ComponentCreator('/nerddao/blog/Network-State', 'df0'),
+    component: ComponentCreator('/nerddao/blog/Network-State', '1db'),
     exact: true
   },
   {
     path: '/nerddao/blog/perpetual-motion',
-    component: ComponentCreator('/nerddao/blog/perpetual-motion', 'c53'),
+    component: ComponentCreator('/nerddao/blog/perpetual-motion', '6f6'),
     exact: true
   },
   {
     path: '/nerddao/blog/strudel-briefing',
-    component: ComponentCreator('/nerddao/blog/strudel-briefing', 'e6f'),
+    component: ComponentCreator('/nerddao/blog/strudel-briefing', '33a'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags',
-    component: ComponentCreator('/nerddao/blog/tags', '4ca'),
+    component: ComponentCreator('/nerddao/blog/tags', '8e0'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/ai-universe',
-    component: ComponentCreator('/nerddao/blog/tags/ai-universe', 'eef'),
+    component: ComponentCreator('/nerddao/blog/tags/ai-universe', '012'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/bitcoin',
-    component: ComponentCreator('/nerddao/blog/tags/bitcoin', 'd58'),
+    component: ComponentCreator('/nerddao/blog/tags/bitcoin', '218'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/buidl-guild',
-    component: ComponentCreator('/nerddao/blog/tags/buidl-guild', '904'),
+    component: ComponentCreator('/nerddao/blog/tags/buidl-guild', 'ac1'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/dev-con',
-    component: ComponentCreator('/nerddao/blog/tags/dev-con', 'ee2'),
+    component: ComponentCreator('/nerddao/blog/tags/dev-con', 'e29'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/eth-os',
-    component: ComponentCreator('/nerddao/blog/tags/eth-os', '7cf'),
+    component: ComponentCreator('/nerddao/blog/tags/eth-os', 'cd3'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/ethereum',
-    component: ComponentCreator('/nerddao/blog/tags/ethereum', '629'),
+    component: ComponentCreator('/nerddao/blog/tags/ethereum', '26a'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/hacks',
-    component: ComponentCreator('/nerddao/blog/tags/hacks', '140'),
+    component: ComponentCreator('/nerddao/blog/tags/hacks', 'd3a'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/nerd',
-    component: ComponentCreator('/nerddao/blog/tags/nerd', 'dde'),
+    component: ComponentCreator('/nerddao/blog/tags/nerd', '1ee'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/nerddao',
-    component: ComponentCreator('/nerddao/blog/tags/nerddao', 'dfd'),
+    component: ComponentCreator('/nerddao/blog/tags/nerddao', 'f2f'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/nft',
-    component: ComponentCreator('/nerddao/blog/tags/nft', '976'),
+    component: ComponentCreator('/nerddao/blog/tags/nft', 'd30'),
     exact: true
   },
   {
     path: '/nerddao/blog/tags/strudel',
-    component: ComponentCreator('/nerddao/blog/tags/strudel', '110'),
+    component: ComponentCreator('/nerddao/blog/tags/strudel', '80a'),
+    exact: true
+  },
+  {
+    path: '/nerddao/blog/WAAS',
+    component: ComponentCreator('/nerddao/blog/WAAS', 'e0f'),
     exact: true
   },
   {
     path: '/nerddao/blog/what-is-nerd',
-    component: ComponentCreator('/nerddao/blog/what-is-nerd', '6b1'),
+    component: ComponentCreator('/nerddao/blog/what-is-nerd', '725'),
     exact: true
   },
   {
     path: '/nerddao/markdown-page',
-    component: ComponentCreator('/nerddao/markdown-page', 'e66'),
+    component: ComponentCreator('/nerddao/markdown-page', '917'),
     exact: true
   },
   {
     path: '/nerddao/docs',
-    component: ComponentCreator('/nerddao/docs', '1f2'),
+    component: ComponentCreator('/nerddao/docs', '218'),
     routes: [
       {
         path: '/nerddao/docs/intro',
@@ -155,7 +160,7 @@ export default [
   },
   {
     path: '/nerddao/',
-    component: ComponentCreator('/nerddao/', '18d'),
+    component: ComponentCreator('/nerddao/', '122'),
     exact: true
   },
   {

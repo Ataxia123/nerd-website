@@ -2,6 +2,14 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "WalletAsAServer",
+      "permalink": "/nerddao/blog/WAAS"
+    },
+    {
+      "title": "Strudel Bitcoin Investment Briefing",
+      "permalink": "/nerddao/blog/strudel-briefing"
+    },
+    {
       "title": "NerdOs Delegation Update",
       "permalink": "/nerddao/blog/Nerd-OS-Update"
     },
@@ -12,14 +20,6 @@
     {
       "title": "Infinite Universe Alliance Announcement",
       "permalink": "/nerddao/blog/infinite-universe"
-    },
-    {
-      "title": "NerdBogota",
-      "permalink": "/nerddao/blog/Nerd-Bogota"
-    },
-    {
-      "title": "NerdOs Delegation Proposal",
-      "permalink": "/nerddao/blog/Nerd-OS"
     }
   ]
 }
