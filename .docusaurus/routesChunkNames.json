@@ -1,360 +1,414 @@
 {
-  "/nerddao/blog-8b6": {
-    "__comp": "a6aa9e1f",
+  "/nerddao/__docusaurus/debug-0f3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
+    }
+  },
+  "/nerddao/__docusaurus/debug/config-8bb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
+    }
+  },
+  "/nerddao/__docusaurus/debug/content-82b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---nerddao-docusaurus-debug-content-246-f5b"
+  },
+  "/nerddao/__docusaurus/debug/globalData-989": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
+    }
+  },
+  "/nerddao/__docusaurus/debug/metadata-440": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
+    }
+  },
+  "/nerddao/__docusaurus/debug/registry-444": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
+    }
+  },
+  "/nerddao/__docusaurus/debug/routes-f98": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---nerddao-docusaurus-debug-2-aa-1d4"
+    }
+  },
+  "/nerddao/blog-e8f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---nerddao-blog-540-085"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "2d2d1b9d"
+        "content": "content---nerddao-blogd-3-f-464"
       },
       {
-        "content": "8d993287"
+        "content": "content---nerddao-blog-2-d-2-97c"
       },
       {
-        "content": "c442854a"
+        "content": "content---nerddao-blogc-44-4af"
       },
       {
-        "content": "7b94f8ba"
+        "content": "content---nerddao-blog-7-b-9-49c"
       },
       {
-        "content": "ab0e73f1"
+        "content": "content---nerddao-blogab-0-31c"
       },
       {
-        "content": "35eedae4"
+        "content": "content---nerddao-blog-35-e-9a2"
       },
       {
-        "content": "775cfc9b"
+        "content": "content---nerddao-blog-775-550"
       },
       {
-        "content": "257a3c31"
+        "content": "content---nerddao-blog-8-d-9-856"
       },
       {
-        "content": "c998835b"
+        "content": "content---nerddao-blog-257-ffc"
+      },
+      {
+        "content": "content---nerddao-blogc-99-15e"
       }
     ],
-    "metadata": "b6a9c024"
+    "metadata": "metadata---nerddao-blogb-6-a-cbf"
   },
-  "/nerddao/blog/archive-ae1": {
-    "__comp": "9e4087bc",
+  "/nerddao/blog/archive-10e": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "archive": "87d29613"
+    "archive": "archive---nerddao-blog-archive-87-d-70e"
   },
-  "/nerddao/blog/infinite-universe-d1b": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/HowNFTsOlvedPiracy-0ed": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "8d4ace7d"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-how-nf-ts-olved-piracy-476-588"
   },
-  "/nerddao/blog/Nerd-Bogota-546": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/infinite-universe-8d5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "62284ed6"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-infinite-universe-8-d-4-ffe"
   },
-  "/nerddao/blog/Nerd-OS-836": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/Nerd-Bogota-f28": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "dbdec75c"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-nerd-bogota-622-9c5"
   },
-  "/nerddao/blog/Nerd-OS-Update-ed6": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/Nerd-OS-a46": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "f9b76db0"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-nerd-o-sdbd-5aa"
   },
-  "/nerddao/blog/Network-State-1db": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/Nerd-OS-Update-860": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "e8b94dea"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-nerd-os-updatef-9-b-1b7"
   },
-  "/nerddao/blog/perpetual-motion-6f6": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/Network-State-e92": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "27863306"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-network-statee-8-b-8cb"
   },
-  "/nerddao/blog/strudel-briefing-33a": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/perpetual-motion-6a9": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "98f9111d"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-perpetual-motion-278-003"
   },
-  "/nerddao/blog/tags-8e0": {
-    "__comp": "01a85c17",
+  "/nerddao/blog/strudel-briefing-80e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "tags": "e2080a40"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-strudel-briefing-98-f-b1f"
   },
-  "/nerddao/blog/tags/ai-universe-012": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags-b1e": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "tags": "tags---nerddao-blog-tagse-20-d25"
+  },
+  "/nerddao/blog/tags/ai-universe-69a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---nerddao-blog-540-085"
+    },
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "c442854a"
+        "content": "content---nerddao-blogc-44-4af"
       },
       {
-        "content": "ab0e73f1"
+        "content": "content---nerddao-blogab-0-31c"
       }
     ],
-    "tag": "39e762be",
-    "listMetadata": "4159ed1e"
+    "tag": "tag---nerddao-blog-tags-ai-universe-39-e-551",
+    "listMetadata": "listMetadata---nerddao-blog-tags-ai-universe-415-81a"
   },
-  "/nerddao/blog/tags/bitcoin-218": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/bitcoin-6e7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "8d993287"
+        "content": "content---nerddao-blog-8-d-9-856"
       },
       {
-        "content": "257a3c31"
+        "content": "content---nerddao-blog-257-ffc"
       }
     ],
-    "tag": "9e2d35f3",
-    "listMetadata": "d5bea4bc"
+    "tag": "tag---nerddao-blog-tags-bitcoin-9-e-2-1c4",
+    "listMetadata": "listMetadata---nerddao-blog-tags-bitcoind-5-b-36f"
   },
-  "/nerddao/blog/tags/buidl-guild-ac1": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/buidl-guild-29b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "c442854a"
+        "content": "content---nerddao-blogc-44-4af"
       }
     ],
-    "tag": "7126c9c4",
-    "listMetadata": "ebc800bb"
+    "tag": "tag---nerddao-blog-tags-buidl-guild-712-29e",
+    "listMetadata": "listMetadata---nerddao-blog-tags-buidl-guildebc-376"
   },
-  "/nerddao/blog/tags/dev-con-e29": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/dev-con-5cc": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "7b94f8ba"
+        "content": "content---nerddao-blog-7-b-9-49c"
       }
     ],
-    "tag": "9db07f8c",
-    "listMetadata": "a28ff5da"
+    "tag": "tag---nerddao-blog-tags-dev-con-9-db-f6c",
+    "listMetadata": "listMetadata---nerddao-blog-tags-dev-cona-28-9d2"
   },
-  "/nerddao/blog/tags/eth-os-cd3": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/eth-os-18b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "c442854a"
+        "content": "content---nerddao-blogc-44-4af"
       },
       {
-        "content": "775cfc9b"
+        "content": "content---nerddao-blog-775-550"
       }
     ],
-    "tag": "b951fd91",
-    "listMetadata": "8aa2cfec"
+    "tag": "tag---nerddao-blog-tags-eth-osb-95-3e9",
+    "listMetadata": "listMetadata---nerddao-blog-tags-eth-os-8-aa-206"
   },
-  "/nerddao/blog/tags/ethereum-26a": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/ethereum-8be": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "2d2d1b9d"
+        "content": "content---nerddao-blog-2-d-2-97c"
       },
       {
-        "content": "7b94f8ba"
+        "content": "content---nerddao-blog-7-b-9-49c"
       },
       {
-        "content": "35eedae4"
+        "content": "content---nerddao-blog-35-e-9a2"
       }
     ],
-    "tag": "7e91286d",
-    "listMetadata": "7da89af6"
+    "tag": "tag---nerddao-blog-tags-ethereum-7-e-9-964",
+    "listMetadata": "listMetadata---nerddao-blog-tags-ethereum-7-da-bbe"
   },
-  "/nerddao/blog/tags/hacks-d3a": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/hacks-9ec": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "2d2d1b9d"
+        "content": "content---nerddao-blog-2-d-2-97c"
       },
       {
-        "content": "35eedae4"
+        "content": "content---nerddao-blog-35-e-9a2"
       }
     ],
-    "tag": "d954b085",
-    "listMetadata": "8f914cd6"
+    "tag": "tag---nerddao-blog-tags-hacksd-95-9a2",
+    "listMetadata": "listMetadata---nerddao-blog-tags-hacks-8-f-9-9f5"
   },
-  "/nerddao/blog/tags/nerd-1ee": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/nerd-359": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "ab0e73f1"
+        "content": "content---nerddao-blogab-0-31c"
       }
     ],
-    "tag": "4d1f52be",
-    "listMetadata": "5a1f858c"
+    "tag": "tag---nerddao-blog-tags-nerd-4-d-1-0ce",
+    "listMetadata": "listMetadata---nerddao-blog-tags-nerd-5-a-1-8f3"
   },
-  "/nerddao/blog/tags/nerddao-f2f": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/nerddao-b85": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "2d2d1b9d"
+        "content": "content---nerddao-blog-2-d-2-97c"
       },
       {
-        "content": "c442854a"
+        "content": "content---nerddao-blogc-44-4af"
       },
       {
-        "content": "7b94f8ba"
+        "content": "content---nerddao-blog-7-b-9-49c"
       },
       {
-        "content": "35eedae4"
+        "content": "content---nerddao-blog-35-e-9a2"
       },
       {
-        "content": "775cfc9b"
+        "content": "content---nerddao-blog-775-550"
       },
       {
-        "content": "c998835b"
+        "content": "content---nerddao-blogc-99-15e"
       }
     ],
-    "tag": "480faeb8",
-    "listMetadata": "440b5595"
+    "tag": "tag---nerddao-blog-tags-nerddao-480-700",
+    "listMetadata": "listMetadata---nerddao-blog-tags-nerddao-440-93a"
   },
-  "/nerddao/blog/tags/nft-d30": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/nft-e11": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "ab0e73f1"
+        "content": "content---nerddao-blogab-0-31c"
       }
     ],
-    "tag": "1a7ca6f9",
-    "listMetadata": "cff57435"
+    "tag": "tag---nerddao-blog-tags-nft-1-a-7-861",
+    "listMetadata": "listMetadata---nerddao-blog-tags-nftcff-ba2"
   },
-  "/nerddao/blog/tags/strudel-80a": {
-    "__comp": "6875c492",
+  "/nerddao/blog/tags/strudel-ab4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
     "items": [
       {
-        "content": "8d993287"
+        "content": "content---nerddao-blogc-44-4af"
       },
       {
-        "content": "c442854a"
+        "content": "content---nerddao-blog-8-d-9-856"
       },
       {
-        "content": "257a3c31"
+        "content": "content---nerddao-blog-257-ffc"
       }
     ],
-    "tag": "e9901ab9",
-    "listMetadata": "55c03b26"
+    "tag": "tag---nerddao-blog-tags-strudele-99-410",
+    "listMetadata": "listMetadata---nerddao-blog-tags-strudel-55-c-043"
   },
-  "/nerddao/blog/WAAS-e0f": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/WAAS-3cb": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "cda42746"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-waa-scda-c20"
   },
-  "/nerddao/blog/what-is-nerd-725": {
-    "__comp": "ccc49370",
+  "/nerddao/blog/what-is-nerd-c78": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "3742de30"
+      "plugin": "plugin---nerddao-blog-540-085"
     },
-    "sidebar": "814f3328",
-    "content": "7079f887"
+    "sidebar": "sidebar---nerddao-blog-814-3c0",
+    "content": "content---nerddao-blog-what-is-nerd-707-7ac"
   },
-  "/nerddao/markdown-page-917": {
-    "__comp": "1f391b9e",
+  "/nerddao/markdown-page-915": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "cb9b16c4"
+      "plugin": "plugin---nerddao-markdown-page-449-913"
     },
-    "content": "393be207"
+    "content": "content---nerddao-markdown-page-393-0a0"
   },
-  "/nerddao/docs-218": {
-    "__comp": "1be78505",
+  "/nerddao/docs-a39": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "3b1ea50e"
+      "plugin": "plugin---nerddao-docs-199-0be"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---nerddao-docs-935-854"
   },
   "/nerddao/docs/intro-149": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-intro-0-e-3-441"
   },
   "/nerddao/docs/NERD COMMUNITIES 🧠🧠🧠🤓-fb7": {
-    "__comp": "17896441",
-    "content": "fee8ca8e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-nerd-communities-🧠-🧠-🧠-🤓-fee-80f"
   },
   "/nerddao/docs/Projects/miticushqui-8ec": {
-    "__comp": "17896441",
-    "content": "86b07be2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-projects-miticushqui-86-b-e79"
   },
   "/nerddao/docs/Projects/NerdCon 🧠🧠🧠🤓-576": {
-    "__comp": "17896441",
-    "content": "629c8f5a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-projects-nerd-con-🧠-🧠-🧠-🤓-629-de4"
   },
   "/nerddao/docs/Projects/rubixDAO-32a": {
-    "__comp": "17896441",
-    "content": "855f670c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nerddao-docs-projects-rubix-dao-855-983"
   },
-  "/nerddao/-122": {
-    "__comp": "c4f5d8e4",
+  "/nerddao/-386": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "cb9b16c4"
+      "plugin": "plugin---nerddao-markdown-page-449-913"
     },
-    "config": "5e9f5e1a"
+    "config": "config---nerddao-5-e-9-358"
   }
 }

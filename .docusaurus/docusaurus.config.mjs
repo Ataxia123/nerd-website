@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/at0x/hackzor/nw/sidebars.js",
+          "sidebarPath": "/home/at0x/hackzor/NERDEL/nerd-website/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/at0x/hackzor/nw/src/css/custom.css"
+          "customCss": "/home/at0x/hackzor/NERDEL/nerd-website/src/css/custom.css"
         }
       }
     ]

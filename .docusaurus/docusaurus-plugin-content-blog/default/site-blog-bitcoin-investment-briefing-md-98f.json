@@ -4,8 +4,8 @@
   "source": "@site/blog/bitcoin-investment-briefing.md",
   "title": "Strudel Bitcoin Investment Briefing",
   "description": "The Strudel Bridge",
-  "date": "2023-06-21T15:46:37.710Z",
-  "formattedDate": "June 21, 2023",
+  "date": "2022-10-01T02:08:01.000Z",
+  "formattedDate": "October 1, 2022",
   "tags": [
     {
       "label": "strudel",
@@ -37,11 +37,11 @@
     ]
   },
   "prevItem": {
-    "title": "WalletAsAServer",
-    "permalink": "/nerddao/blog/WAAS"
+    "title": "NerdOs Delegation Proposal",
+    "permalink": "/nerddao/blog/Nerd-OS"
   },
   "nextItem": {
-    "title": "NerdOs Delegation Update",
-    "permalink": "/nerddao/blog/Nerd-OS-Update"
+    "title": "Building a Crypto Perpetual Motion Machine",
+    "permalink": "/nerddao/blog/perpetual-motion"
   }
 }

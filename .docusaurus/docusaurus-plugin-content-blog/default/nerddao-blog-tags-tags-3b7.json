@@ -15,16 +15,6 @@
     "count": 3
   },
   {
-    "label": "strudel",
-    "permalink": "/nerddao/blog/tags/strudel",
-    "count": 3
-  },
-  {
-    "label": "bitcoin",
-    "permalink": "/nerddao/blog/tags/bitcoin",
-    "count": 2
-  },
-  {
     "label": "EthOs",
     "permalink": "/nerddao/blog/tags/eth-os",
     "count": 2
@@ -33,6 +23,11 @@
     "label": "BuidlGuild",
     "permalink": "/nerddao/blog/tags/buidl-guild",
     "count": 1
+  },
+  {
+    "label": "Strudel",
+    "permalink": "/nerddao/blog/tags/strudel",
+    "count": 3
   },
   {
     "label": "AIUniverse",
@@ -53,5 +48,10 @@
     "label": "nft",
     "permalink": "/nerddao/blog/tags/nft",
     "count": 1
+  },
+  {
+    "label": "bitcoin",
+    "permalink": "/nerddao/blog/tags/bitcoin",
+    "count": 2
   }
 ]

@@ -4,7 +4,7 @@
   "source": "@site/blog/nerd-blog-waas.md",
   "title": "WalletAsAServer",
   "description": "Introduction",
-  "date": "2023-06-21T15:48:46.082Z",
+  "date": "2023-06-21T15:52:17.000Z",
   "formattedDate": "June 21, 2023",
   "tags": [
     {
@@ -41,8 +41,12 @@
       "ethereum"
     ]
   },
+  "prevItem": {
+    "title": "HowNFTsOlvedPiracy",
+    "permalink": "/nerddao/blog/HowNFTsOlvedPiracy"
+  },
   "nextItem": {
-    "title": "Strudel Bitcoin Investment Briefing",
-    "permalink": "/nerddao/blog/strudel-briefing"
+    "title": "NerdOs Delegation Update",
+    "permalink": "/nerddao/blog/Nerd-OS-Update"
   }
 }
